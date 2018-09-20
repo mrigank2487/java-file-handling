@@ -1,0 +1,19 @@
+<HTML>
+<APPLET
+CODE=BarChart.class
+WIDTH=300
+HEIGHT=250>
+
+<PARAM NAME="columns" VALUE = "4">
+<PARAM NAME="c1" VALUE = "110">
+<PARAM NAME="c2" VALUE = "150">
+<PARAM NAME="c3" VALUE = "100">
+<PARAM NAME="c4" VALUE = "170">
+
+<PARAM NAME="label1" VALUE = "91">
+<PARAM NAME="label2" VALUE = "92">
+<PARAM NAME="label3" VALUE = "93">
+<PARAM NAME="label4" VALUE = "94">
+
+</APPLET>
+</HTML>
